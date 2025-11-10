@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Monarch/Monarch.vcxproj" Id="2d9756a7-ff7b-41a6-9d81-0473a7a8b98b" />
+</Solution>
